@@ -1,0 +1,3 @@
+- Создание моделей и миграций:
+  php artisan make:model Models/BlogPost -m
+  php artisan make:model Models/BlogCategory -m
